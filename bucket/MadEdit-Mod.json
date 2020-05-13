@@ -25,6 +25,7 @@
             "if (!(Test-Path \"$persist_dir\\$CFGFILE\")) {",
             "    Write-Host 'No' $CFGFILE 'exists. Creating.' -f Yellow",
             "    New-Item \"$dir\\$CFGFILE\" -Type File | Out-Null",
+            "}"
             "$FONTFILE = 'FontWidth.dat'",
             "if (!(Test-Path \"$persist_dir\\$FONTFILE\")) {",
             "    Write-Host 'No' $FONTFILE 'exists. Creating.' -f Yellow",

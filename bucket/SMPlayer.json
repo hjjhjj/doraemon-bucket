@@ -14,16 +14,6 @@
     },
     "extract_dir": "smplayer-portable-20.4.2.0",
     "bin": "smplayer.exe",
-    "persist": [
-        "smplayer.ini",
-        "playlist.ini",
-        "player_info.ini",
-        "hdpi.ini",
-        "favorites.m3u8",
-        "radio.m3u8",
-        "tv.m3u8",
-        "file_settings"
-    ],
     "shortcuts": [
         [
             "smplayer.exe",

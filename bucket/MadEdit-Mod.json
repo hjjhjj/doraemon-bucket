@@ -12,10 +12,6 @@
             "hash": "sha1:b076176bc7df5c2a4f57ad30cb278753652eb5f2"
         }
     },
-    "persist": [
-        "MadEdit.cfg",
-        "FontWidth.dat"
-    ],
     "bin": "madedit.exe",
     "shortcuts": [
         [

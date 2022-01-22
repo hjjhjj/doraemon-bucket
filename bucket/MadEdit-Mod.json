@@ -1,5 +1,6 @@
 {
     "homepage": "http://sourceforge.net/projects/madedit-mod/",
+    "description": "a cross platform Text/Hex editor based on MadEdit",
     "version": "0.4.18",
     "license": "GPL-3.0-only",
     "architecture": {

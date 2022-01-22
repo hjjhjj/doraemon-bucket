@@ -6,13 +6,13 @@
     "architecture": {
         "64bit": {
             "url": "https://www.fosshub.com/SMPlayer.html#/dl.7z?dwl=smplayer-portable-21.10.0.0-x64.7z",
-	    "hash": "44dd4e3a5d3e34db55e440ff2b690605800e5e5393393d0a2b4a3e5788c37668",
-	    "extract_dir": "smplayer-portable"
+            "hash": "44dd4e3a5d3e34db55e440ff2b690605800e5e5393393d0a2b4a3e5788c37668",
+            "extract_dir": "smplayer-portable"
         },
         "32bit": {
             "url": "https://www.fosshub.com/SMPlayer.html#/dl.7z?dwl=smplayer-portable-21.10.0.0-win32-qt5.6.7z",
-	    "hash": "ee5da9cad3455265b43e43a12ccdb4968ed0533cf7e4d8473cdf9a99f09d745c",
-	    "extract_dir": "smplayer-portable"
+            "hash": "ee5da9cad3455265b43e43a12ccdb4968ed0533cf7e4d8473cdf9a99f09d745c",
+            "extract_dir": "smplayer-portable"
         }
     },
     "extract_dir": "smplayer-portable-21.10.0.0",

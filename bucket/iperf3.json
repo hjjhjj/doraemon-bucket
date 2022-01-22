@@ -7,7 +7,6 @@
         "64bit": {
             "url": "https://files.budman.pw/iperf3.10.1_64bit.zip",
             "hash": "2CF3FF3671F9F4F57CF01AB8B2D960FEB9E087D450F3B58AAF4AB82333262BE0",
-            "extract_dir": "iperf3.10.1-win64"
         }
     },
     "bin": "iperf3.exe"
